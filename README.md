@@ -1,66 +1,86 @@
-# ¡Hola! Soy Jesús Morales👋
-### Ingeniero en Software | Desarrollador Backend | AI Prompt Engineer | DevOps en proceso
+# Jesus Morales
 
-Desarrollador de Software enfocado en la construcción de soluciones robustas y escalables. Mi experiencia abarca el desarrollo backend con **Java** y **Spring Boot**, desarrollo frontend, arquitectura de software, diseño UX, administración de servidores Linux y la implementación de *prompt engineering* con agentes de IA aplicados al desarrollo. 
-**Actualmente especializándome en:** Prácticas y herramientas de DevOps para la automatización e integración continua.
+Backend Java + Spring Boot. SQL Server, Linux.
 
-📍 **Ubicación:** Cd. Obregón, Sonora, México
-🗣️ **Idiomas:** Español (Nativo), Inglés (B2)
+Soy egresado de Ingenieria en Software (ITSON, 2022-2026) y trabajo en Grupo Rio Yaqui como Ingeniero de Desarrollo y Soporte. Ahi mantengo servidores Linux / Windows Server, escribo scripts en Python y trabajo con SQL Server.
 
----
+Busco rol Jr como Backend Java o Soporte Dev con base SQL + Linux + Python.
 
-## 🚀 Tecnologías y Herramientas
-
-| Categoría | Tecnologías / Herramientas |
-| :--- | :--- |
-| **Backend** | Java, Spring Boot, JavaScript, Kotlin, Node.js |
-| **Frontend & Mobile** | HTML5, CSS, JavaScript, Kotlin (Android) |
-| **Bases de Datos** | MySQL, PostgreSQL, SQL Server, MongoDB, Firebase |
-| **DevOps & Servidores** | Docker, CI/CD, Administración de servidores Linux |
-| **IA & Prompt Engineering**| Claude, Gemini, ChatGPT |
-| **Metodologías & Diseño** | Arquitectura y Diseño de software, Ingeniería de requisitos |
-| **IDEs** | IntelliJ IDEA, Antigravity, Codex, VS Code, Android Studio, NetBeans |
+Ubicacion: Cd. Obregon, Sonora, Mexico. Disponibilidad: remoto / hibrido.
+Idiomas: Espanol nativo, Ingles B2.
+Contacto: jesus.morales.isw@gmail.com / +52 644 149 4951
+GitHub: https://github.com/Morales241
 
 ---
 
-## 📁 Proyectos Destacados
+## Ahora
 
-### 🛠️ [Inventario TI - Grupo Rio Yaqui](https://github.com/Morales241) (Prácticas Profesionales)
-* **Descripción:** Desarrollé un sistema de inventario de activos de TI para la gestión y control de equipos de cómputo, móviles y accesorios. Logré una mejora significativa en el control y trazabilidad del inventario tecnológico de la organización.
-* **Características:** Implementación de paginación, módulos diferenciados por tipo de activo y búsquedas con filtros avanzados.
-* **Uso de IA:** Utilicé agentes de IA (Claude / ChatGPT) aplicando *prompt engineering* con contexto técnico detallado (diagramas de arquitectura, patrones de diseño y especificaciones funcionales) para acelerar el desarrollo y mantener consistencia en el código.
+- Inventario TI en Grupo Rio Yaqui: paginacion, filtros por tipo de activo, trazabilidad de equipos de computo y moviles.
+- Soporte diario: revision de servicios en Linux, scripts Python para tareas repetitivas, consultas y depuracion en SQL Server.
+- Tiempo de codigo fuera del trabajo: 45 min/dia, enfocado en dejar 4 repos corriendo con README reproducible.
 
-### 👨‍🏫 [Gestor de Estudiantes y Maestros - Cbta97](https://github.com/Morales241) (Servicio Social)
-* **Descripción:** Desarrollé junto con un equipo multidisciplinario y autoorganizado un sistema de gestión escolar para optimizar la organización de la información de la institución.
-* **Características:** Funcionalidades clave de registro, edición de alumnos, generación de reportes, consultas, así como importaciones y exportaciones de datos.
+## Stack que uso
 
-### 🤝 [Sistema de Gestión de Donantes](https://github.com/Morales241) (Proyecto Freelance)
-* **Descripción:** Diseñé y desarrollé desde la fase inicial hasta la entrega un sistema de escritorio para administrar la base de datos de "padrinos" (donantes) y sus contribuciones a un seminario. Sostuve reuniones directas con el cliente para el levantamiento y análisis de requerimientos.
-* **Características:** Implementación de módulos para el alta y seguimiento tanto de los donantes como de sus aportaciones económicas.
+Backend: Java 17, Spring Boot, JUnit 5, JWT / Keycloak
+Datos: SQL Server, MySQL, PostgreSQL, SQLite
+Ops: Docker, docker-compose, Linux, Git
+Movil: Kotlin en Android, Firebase
+Con IA: Claude, Gemini, ChatGPT como apoyo con contexto tecnico (diagramas, patrones, specs)
 
-### 💅 [Sistema de Gestión para Estética](https://github.com/Morales241) (Servicio Social)
-* **Descripción:** Diseñé y desarrollé un sistema de escritorio orientado a optimizar la gestión de clientes, servicios y agenda de citas. Colaboré con un equipo multidisciplinario para asegurar la alineación del producto con las necesidades del negocio.
-* **Características:** Registro de usuarios, programación de citas, seguimiento de historial de servicios y generación de reportes básicos.
+No listo todo lo que he tocado alguna vez. Esto es lo que uso semana a semana.
 
----
+## Proyectos
 
-## 🎓 Educación y Certificaciones
+1. Microservicios e-commerce — Java + Docker
+   https://github.com/Morales241/ProyectoDistribuidos
+   Auth con JWT, API Gateway, docker-compose. 78 commits.
+   Java, Spring Boot, JWT, Gateway, Docker.
 
-* **Ingeniería en Software** – ITSON (2022 - 2026)
-* **Técnico en Programación** – Cbtis 37 (2019 - 2022)
-* 📜 **Oracle Data Platform, OCI & OCI AI Foundations Associate** – Oracle (2026)
-* 📜 **Certificación Java** – Udemy (2025)
+2. Domino P2P — Java Sockets
+   https://github.com/Morales241/Proyecto-de-Arquitectura
+   Juego peer-to-peer con arquitectura por eventos. 342 commits.
+   Java, Sockets, MVC, eventos.
 
----
+3. Closet Virtual — Android Kotlin
+   https://github.com/Morales241/ProyectoFinalAppsMoviles
+   App para gestion de vestuario con base local. 88 commits.
+   Kotlin, Android Studio, SQLite, Firebase.
 
-## 🧠 Habilidades Blandas
-* Pensamiento Crítico y Resolución de Problemas
-* Enfoque y Profesionalismo
-* Colaboración en Equipo
-* Aprendizaje Continuo y Adaptabilidad
+4. Admin Compras — Java + MySQL
+   https://github.com/Morales241/DisenoSoftware
+   Compras con diagrama ER, proveedores y ordenes. 202 commits.
+   Java, MySQL, UML.
 
----
+Nota: estoy renombrando los repos a nombres en ingles y dejando en cada uno que es, stack, arquitectura y como correrlo en 3 comandos.
 
-## ✉️ ¡Conectemos!
-* **Email:** [jesus.morales.isw@gmail.com](mailto:jesus.morales.isw@gmail.com)
-* **Teléfono:** [+52 644 149 4951](tel:6441494951)
+## Experiencia
+
+Ingeniero de Desarrollo y Soporte — Grupo Rio Yaqui. May 2026 - actualidad.
+- Sistema de inventario TI por tipo de activo.
+- Soporte Linux + Windows Server, Python, SQL Server.
+
+Gestor Estudiantes / Maestros Cbta97. Servicio social, en equipo.
+- Registro y edicion de alumnos, reportes, consultas, importacion / exportacion.
+- Java, Spring Boot, MySQL, Angular, Keycloak, Docker, JUnit 5.
+
+Sistema Donantes (seminario). Freelance.
+- Levantamiento directo con cliente. Alta y seguimiento de donantes y aportaciones.
+- Java, SQLite.
+
+Sistema Estetica. Servicio social, en equipo.
+- Clientes, servicios, agenda de citas, historial y reportes basicos.
+- Java, MySQL.
+
+## Educacion y certs
+
+- Ingenieria en Software, ITSON (2022-2026)
+- Tecnico en Programacion, CBTIS 37 (2019-2022)
+- Oracle Data Platform / OCI / OCI AI Foundations Associate, Oracle (2026). IDs verificables en CV.
+- Java, Udemy (2025)
+
+## Contacto
+
+Si tienes una vacante Jr de Backend Java o Soporte Dev con SQL / Linux, escribeme por email o WhatsApp. Respondo en el dia.
+
+Email: jesus.morales.isw@gmail.com
+Tel: +52 644 149 4951

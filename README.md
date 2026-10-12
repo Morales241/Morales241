@@ -8,7 +8,7 @@ Abierto a: Backend Java Jr / Soporte Dev con SQL + Linux + Python. Remoto / hibr
 
 - Building: [Inventario TI](https://github.com/Morales241) — paginacion y filtros por tipo de activo
 - Stack: Java 17 · Spring Boot · SQL Server / MySQL · Docker · Linux
-- Contacto: jesus.morales.isw@gmail.com · +52 644 149 4951 · [LinkedIn](https://www.linkedin.com/) · Espanol nativo / Ingles B2
+- Contacto: jesus.morales.isw@gmail.com · +52 644 149 4951 · [LinkedIn](https://www.linkedin.com/in/jesus-alberto-morales-rojas-2a22022b9) · Espanol nativo / Ingles B2
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -72,8 +72,10 @@ Client -> Gateway -> Auth (JWT) -> Orders / Users
 
 - Ingenieria en Software, ITSON (2022-2026)
 - Tecnico en Programacion, CBTIS 37 (2019-2022)
-- Oracle Data Platform / OCI / OCI AI Foundations Associate, Oracle (2026). IDs en CV.
-- Java, Udemy (2025)
+- Oracle Data Platform 2025 Certified Foundations Associate | Oracle | Mayo 2026 — ID: 103457402OCI25DCFA
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle — ID: 103457402OCI25FNDCFA
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate | Oracle — ID: 103457402OCI25AICFA
+- Certificacion Java | Udemy | 2025
 
 ## Contacto
 
@@ -82,3 +84,4 @@ Si buscas Backend Java Jr o Soporte Dev con SQL / Linux, escribeme directo:
 Email: jesus.morales.isw@gmail.com
 Tel: +52 644 149 4951
 GitHub: https://github.com/Morales241
+LinkedIn: https://www.linkedin.com/in/jesus-alberto-morales-rojas-2a22022b9

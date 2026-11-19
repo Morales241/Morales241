@@ -6,7 +6,7 @@ Egresado de Ingenieria en Software (ITSON 2022-2026). Trabajo en Grupo Rio Yaqui
 
 Abierto a: Backend Java Jr / Soporte Dev con SQL + Linux + Python. Remoto / hibrido desde Cd. Obregon, Sonora.
 
-- Building: [Inventario TI](https://github.com/Morales241) — paginacion y filtros por tipo de activo
+- Building: version publica open-source de mi sistema de inventario TI (work in progress)
 - Stack: Java 17 · Spring Boot · SQL Server / MySQL · Docker · Linux
 - Contacto: jesus.morales.isw@gmail.com · +52 644 149 4951 · [LinkedIn](https://www.linkedin.com/in/jesus-alberto-morales-rojas-2a22022b9) · Espanol nativo / Ingles B2
 
@@ -22,7 +22,7 @@ Trabajo publico con codigo revisable e instrucciones para ejecutarlo.
 | --- | --- | --- |
 | [Microservicios e-commerce](https://github.com/Morales241/ProyectoDistribuidos) | Auth JWT + API Gateway. Corre con `docker compose up`. 78 commits. | `Java` `Spring Boot` `JWT` `Gateway` `Docker` |
 | [Domino P2P](https://github.com/Morales241/Proyecto-de-Arquitectura) | Juego peer-to-peer con eventos. 342 commits. | `Java` `Sockets` `MVC` |
-| [Closet Virtual Android](https://github.com/Morales241/ProyectoFinalAppsMoviles) | App con base local y sincronizacion basica. 88 commits. | `Kotlin` `SQLite` `Firebase` |
+| [Closet Virtual Android](https://github.com/Morales241/Virtual-Closet-Android-Kotlin) | App Android: prendas, outfits y calendario con Firebase. Screenshots en el README. | `Kotlin` `Firebase` `MVVM` |
 | [Admin Compras](https://github.com/Morales241/DisenoSoftware) | Compras con diagrama ER, proveedores y ordenes. 202 commits. | `Java` `MySQL` `UML` |
 
 <details>
